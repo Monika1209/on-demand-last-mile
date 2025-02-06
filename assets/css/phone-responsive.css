@@ -242,7 +242,7 @@
     }
 
     .sofa {
-        width: 300px;
+        width: 310px;
         height: 400px;
     }
 
@@ -260,7 +260,7 @@
     }
 
     .box1 .sofa .headings img {
-        width: 190px;
+        width: 195px;
         height: 3px;
         top: 41%;
         left: 1%;
@@ -364,7 +364,7 @@
 
     .offer1 .corousel {
         height: 120px;
-        width: 290px;
+        width: 300px;
     }
 
     .offers .offer1 .offers-50{
@@ -499,7 +499,7 @@
         padding: 0;
         /* margin-right: 60px; */
         margin-bottom: 20px;
-        margin-left: -70px;
+        margin-left: -50px;
     }
 
     #best-seller .seller-content .seller-row .col {
@@ -596,7 +596,7 @@
     /* footer  */
 
     footer {
-        width: 300px;
+        width: 310px;
         min-height: 1300px;
         align-items: start;
         margin-left: 10px;
@@ -656,5 +656,6 @@
         display: flex;
         justify-content: center;
         align-items: center;
+        padding-bottom: 20px;
     }
 }
