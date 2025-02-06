@@ -600,6 +600,7 @@
         min-height: 1300px;
         align-items: start;
         margin-left: 10px;
+        padding-bottom: 20px;
     }
 
     footer .row {
@@ -654,8 +655,19 @@
 
     footer{
         display: flex;
+        width: 310px;
         justify-content: center;
         align-items: center;
         padding-bottom: 20px;
+    }
+
+    .offer1 .corousel {
+        height: 120px;
+        width: 300px;
+    }
+
+    #newsletter .news {
+        height: 190px;
+        padding-bottom: 10px;
     }
 }
